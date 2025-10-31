@@ -14,7 +14,11 @@ This project was written over the course of a couple weeks, and despite it's rou
 - [Next Steps](#next-steps)
 
 # Sample Images
-Some renders can be found in `./SampleImages`. All of the scenes were composed using `lua` and can be found under `./Assets/SampleScenes`.
+<p align="center">
+  <img src="https://github.com/shraacha/alchemist-render-engine/blob/main/ReadmeImages/main_collage.png?raw=true" width="700"/>
+</p>
+
+Some more renders can be found in `./SampleImages`. All of the scenes were composed using `lua` and can be found under `./Assets/SampleScenes`.
 
 # Building
 This project currently depends on some Lua scene description boilerplate provided by the university. This is copyrighted code that I was not allowed to redstribute, so for the time being, this repo is not in a buildable state.
