@@ -1,5 +1,7 @@
 # Alchemist
-<p align="center"> ![screenshot](./screenshot2.png) </p>
+<p align="center"> 
+<img src="raw.githubusercontent.com/shraacha/alchemist/refs/heads/main/screenshot2.png" />
+</p>
 
 Alchemist is a raytracer I wrote for the final, open-ended, solo project for the computer graphics course at the University of Waterloo [CS488](https://student.cs.uwaterloo.ca/~cs488/gallery.html). 
 
@@ -56,12 +58,14 @@ Caustics was the most involved feature that I implemented for this project. I ac
 
 In short, before doing the main render pass, "photons" are traced exiting from all the light sources in the scene. These photons interact with the scene (passting through refractive materials, and bouncing off of reflective ones), and are collected on diffuse surfaces. Here's a visualization of this photon step where each one is represented by a sphere:
 
-<p align="center"> ![screenshot](./SampleImages/reflective-specular-highlights.png) </p>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/shraacha/alchemist/refs/heads/main/SampleImages/reflective-specular-highlights.png" />
+</p>
 
 During the main rendering pass, i.e. after tracing the path of a ray from the camera out into the scene and hitting a surface, the photons near the intersection are collected and used in the lighting calculation.
 
 You might have realized that there are alot of photons that are produced by this step! To efficiently store the photon information and allow for queries around an intersection point, I wrote a (templated) KD tree class `/include/KDTree.hpp`.
 
 ## Next Steps
-
-- [ ] Adding scene-loading code
+Here's a list of things I'd like to add to this project next!
+- [ ] hand-rolled scene-loading code 
