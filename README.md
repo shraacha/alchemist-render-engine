@@ -1,6 +1,6 @@
 # Alchemist
 <p align="center"> 
-<img src="raw.githubusercontent.com/shraacha/alchemist/refs/heads/main/screenshot2.png" />
+<img src="https://raw.githubusercontent.com/shraacha/alchemist/refs/heads/main/screenshot2.png" />
 </p>
 
 Alchemist is a raytracer I wrote for the final, open-ended, solo project for the computer graphics course at the University of Waterloo [CS488](https://student.cs.uwaterloo.ca/~cs488/gallery.html). 
