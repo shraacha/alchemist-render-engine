@@ -1,0 +1,962 @@
+[
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/IntersectionRoutines.o",
+      "../libs/IntersectionRoutines.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/IntersectionRoutines.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/IntersectionRoutines.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/NormalMaterial.o",
+      "../libs/NormalMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/NormalMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/NormalMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/ReflectiveMaterial.o",
+      "../libs/ReflectiveMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/ReflectiveMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/ReflectiveMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/SceneManager.o",
+      "../libs/SceneManager.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/SceneManager.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/SceneManager.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/scene_lua.o",
+      "../libs/scene_lua.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/scene_lua.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/scene_lua.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/ThreadPool.o",
+      "../libs/ThreadPool.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/ThreadPool.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/ThreadPool.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/LightingHelpers.o",
+      "../libs/LightingHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/LightingHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/LightingHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/PhotonMapHelpers.o",
+      "../libs/PhotonMapHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/PhotonMapHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/PhotonMapHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/ImageKernelHelpers.o",
+      "../libs/ImageKernelHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/ImageKernelHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/ImageKernelHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Camera.o",
+      "../libs/Camera.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Camera.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Camera.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Helpers.o",
+      "../libs/Helpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Helpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Helpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Light.o",
+      "../libs/Light.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Light.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Light.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Ray.o",
+      "../libs/Ray.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Ray.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Ray.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/IntersectionHelpers.o",
+      "../libs/IntersectionHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/IntersectionHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/IntersectionHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/SceneNode.o",
+      "../libs/SceneNode.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/SceneNode.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/SceneNode.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Image.o",
+      "../libs/Image.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Image.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Image.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/GLMHelpers.o",
+      "../libs/GLMHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/GLMHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/GLMHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/RefractiveMaterial.o",
+      "../libs/RefractiveMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/RefractiveMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/RefractiveMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Mesh.o",
+      "../libs/Mesh.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Mesh.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Mesh.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/polyroots.o",
+      "../libs/polyroots.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/polyroots.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/polyroots.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/JointNode.o",
+      "../libs/JointNode.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/JointNode.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/JointNode.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Photon.o",
+      "../libs/Photon.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Photon.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Photon.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/GeometryNode.o",
+      "../libs/GeometryNode.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/GeometryNode.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/GeometryNode.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/Material.o",
+      "../libs/Material.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Material.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/Material.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/CookTorranceMaterial.o",
+      "../libs/CookTorranceMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/CookTorranceMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/CookTorranceMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/ImageHelpers.o",
+      "../libs/ImageHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/ImageHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/ImageHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/A5.o",
+      "../libs/A5.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/A5.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/A5.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "Debug/A5/PhongMaterial.o",
+      "../libs/PhongMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/PhongMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/A5/PhongMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/IntersectionRoutines.o",
+      "../libs/IntersectionRoutines.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/IntersectionRoutines.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/IntersectionRoutines.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/NormalMaterial.o",
+      "../libs/NormalMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/NormalMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/NormalMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/Intersection.o",
+      "../libs/Intersection.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Intersection.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/Intersection.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/Primitive.o",
+      "../libs/Primitive.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Primitive.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/Primitive.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/ReflectiveMaterial.o",
+      "../libs/ReflectiveMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/ReflectiveMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/ReflectiveMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/SceneManager.o",
+      "../libs/SceneManager.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/SceneManager.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/SceneManager.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/scene_lua.o",
+      "../libs/scene_lua.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/scene_lua.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/scene_lua.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/PhotonMapHelpers.o",
+      "../libs/PhotonMapHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/PhotonMapHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/PhotonMapHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/Light.o",
+      "../libs/Light.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Light.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/Light.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/Ray.o",
+      "../libs/Ray.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Ray.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/Ray.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/IntersectionHelpers.o",
+      "../libs/IntersectionHelpers.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/IntersectionHelpers.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/IntersectionHelpers.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/SceneNode.o",
+      "../libs/SceneNode.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/SceneNode.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/SceneNode.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/RefractiveMaterial.o",
+      "../libs/RefractiveMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/RefractiveMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/RefractiveMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/Mesh.o",
+      "../libs/Mesh.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Mesh.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/Mesh.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/JointNode.o",
+      "../libs/JointNode.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/JointNode.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/JointNode.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/GeometryNode.o",
+      "../libs/GeometryNode.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/GeometryNode.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/GeometryNode.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/Material.o",
+      "../libs/Material.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/Material.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/Material.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/CookTorranceMaterial.o",
+      "../libs/CookTorranceMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/CookTorranceMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/CookTorranceMaterial.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/A5.o",
+      "../libs/A5.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/A5.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/A5.o"
+  },
+  {
+    "arguments": [
+      "/nix/store/yc9q0h72rlj98y0116c4mma6k80264mv-gcc-wrapper-13.2.0/bin/g++",
+      "-DDEBUG",
+      "-I../../shared",
+      "-I../../shared/include",
+      "-I../../shared/gl3w",
+      "-I../../shared/imgui",
+      "-I../include",
+      "-I../third_party/googletest/googletest/include",
+      "-g",
+      "-c",
+      "-o",
+      "Debug/Tests/PhongMaterial.o",
+      "../libs/PhongMaterial.cpp"
+    ],
+    "directory": "/home/anish/Documents/Github/school/cs488/A5/build",
+    "file": "/home/anish/Documents/Github/school/cs488/A5/libs/PhongMaterial.cpp",
+    "output": "/home/anish/Documents/Github/school/cs488/A5/build/Debug/Tests/PhongMaterial.o"
+  }
+]
