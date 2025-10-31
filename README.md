@@ -1,6 +1,5 @@
-# Alchemist
 <p align="center">
-  <img src="https://github.com/shraacha/alchemist-render-engine/blob/main/ReadmeImages/main_collage.png?raw=true" width="700"/>
+  <img src="https://github.com/shraacha/alchemist-render-engine/blob/main/ReadmeImages/alchemist.png?raw=true"/>
 </p>
 
 Alchemist is a raytracer I wrote for my final solo project in the computer graphics course at the University of Waterloo [CS488](https://student.cs.uwaterloo.ca/~cs488/gallery.html). 
