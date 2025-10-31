@@ -10,7 +10,7 @@ I was interested in soft lighting, caustic light effects, and emulating realisti
 This project was written over the course of a couple weeks, and despite it's rough edges, I'm very proud of the final results!
 
 # Index 
-- Sample Images
+- [Sample Images](sample-images)
 - Features
 
 # Sample Images
