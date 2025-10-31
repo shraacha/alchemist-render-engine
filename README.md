@@ -10,8 +10,11 @@ I was interested in soft lighting, caustic light effects, and emulating realisti
 This project was written over the course of a couple weeks, and despite it's rough edges, I'm very proud of the final results!
 
 # Index 
-- [Sample Images](sample-images)
-- Features
+- [Sample Images](#sample-images)
+- [Building](#building)
+- [Code Structure](#code-structure)
+- [Features](#features)
+- [Next Steps](#next-steps)
 
 # Sample Images
 Some renders can be found in `./SampleImages`. All of the scenes were composed using `lua` and can be found under `./Assets/SampleScenes`.
@@ -23,16 +26,7 @@ This project currently depends on some Lua scene description boilerplate provide
 Class headers can be found under `include`, and implmentations can be found under `libs`.
 
 # Features
-Here is the list of features I implemetented for this renderer. More details about their implementations can be found below.
-
-- various primitive intersections
-- bounding boxes
-- texture mapping & normal mapping
-- normal mapping
-- adaptive antialiasing
-- reflective and refractive materials
-- multithreading
-- caustic lighting
+Here is the list of features I implemetented for this renderer.
 
 ## Primitives
 <p align="center">
