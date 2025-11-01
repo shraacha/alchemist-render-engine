@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shraacha/alchemist-render-engine/blob/main/ReadmeImages/alchemist.png?raw=true"/>
+  <img src="https://github.com/shraacha/alchemist-render-engine/blob/main/ReadmeImages/alchemist_logo.png?raw=true"/>
 </p>
 
 Alchemist is a raytracer I wrote for my final solo project in the computer graphics course at the University of Waterloo [CS488](https://student.cs.uwaterloo.ca/~cs488/gallery.html). I was interested in soft lighting, caustic light effects, and emulating realistic textures. To do so, I implemented [photon mapping](https://en.wikipedia.org/wiki/Photon_mapping), distributed raytracing techniques, and an in-depth material system among other features. Since the renderer was CPU bound, I also leveraged multithreading techniques to massively speed up the rendering process. 
